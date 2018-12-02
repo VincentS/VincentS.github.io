@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on Vincent Schwarzer</title>
+    <link>https://vincentschwarzer.com/about/</link>
+    <description>Recent content in About Me on Vincent Schwarzer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Dec 2018 23:22:43 +0100</lastBuildDate>
+    
+	<atom:link href="https://vincentschwarzer.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

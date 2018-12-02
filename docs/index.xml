@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent Schwarzer</title>
+    <link>https://vincentschwarzer.com/</link>
+    <description>Recent content on Vincent Schwarzer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Dec 2018 23:22:43 +0100</lastBuildDate>
+    
+	<atom:link href="https://vincentschwarzer.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coming Soon!</title>
+      <link>https://vincentschwarzer.com/blog/coming-soon/</link>
+      <pubDate>Sun, 02 Dec 2018 23:22:43 +0100</pubDate>
+      
+      <guid>https://vincentschwarzer.com/blog/coming-soon/</guid>
+      <description>Coming Soon!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vincentschwarzer.com/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincentschwarzer.com/impressum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
