@@ -41,6 +41,7 @@ email                  = "vincent.schwarzer [@] posteo.net"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
 faviconfile            = "img/leaf.ico"
 github                 = "//github.com/vincentschwarzer"
+gpg                    = "//pgp.mit.edu/pks/lookup?op=get&search=0x9DD482008A690038"
 lang                   = "en"
 linkedin               = "//linkedin.com/in/vincentschwarzer/"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
