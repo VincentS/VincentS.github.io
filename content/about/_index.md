@@ -26,4 +26,4 @@ I am a [Google Cloud Certified - Professional Cloud Architect](https://api.accre
 * GPG Key: https://pgp.mit.edu/pks/lookup?op=get&search=0x9DD482008A690038
 * Xing: https://www.xing.com/profile/Vincent_Schwarzer
 * Linkedin: https://www.linkedin.com/in/vincentschwarzer
-* GitHub: https://www.github.com/vincentschwarzer
+* GitHub: https://www.github.com/VincentS
