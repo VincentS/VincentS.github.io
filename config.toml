@@ -40,15 +40,20 @@ description            = "Blog of Vincent Schwarzer"
 email                  = "vincent.schwarzer [@] posteo.net"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
 faviconfile            = "img/leaf.ico"
-github                 = "//github.com/vincentschwarzer"
+github                 = "//github.com/vincents"
 gpg                    = "//pgp.mit.edu/pks/lookup?op=get&search=0x9DD482008A690038"
 lang                   = "en"
 linkedin               = "//linkedin.com/in/vincentschwarzer/"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
-selfintro              = "Software Engineer / DevOps Consultant, OSS Enthusiast and Geek" # appears in the site header when set to a non-empty string
+selfintro              = "Software Engineer / DevOps Consultant" # appears in the site header when set to a non-empty string
 xing                   = "//xing.com/profile/Vincent_Schwarzer"
 highlightjs            = true
 # highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
 # highlightjsStyle     = "darcula"
 
 avatar                 = "img/profile.png" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
+
+
+
+
+
